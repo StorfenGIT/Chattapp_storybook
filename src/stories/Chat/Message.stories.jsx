@@ -13,7 +13,7 @@ export default {
     ],
 };
 
-export const Default = {
+export const MyMessages = {
     args: {
         currentUserId: 1350,
         title: 'Message Response',

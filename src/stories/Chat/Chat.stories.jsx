@@ -6,7 +6,7 @@ export default {
     component: Chat,
 }
 
-export const Default = {
+export const AllChatMessages = {
     args: {
         title: 'Chat',
         currentUserId: 1431,
